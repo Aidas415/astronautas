@@ -25,6 +25,18 @@ design: ![alt text](./original-design.png)
 -   FontAwesome icons
 -   display: flex
 -   hover state
+-   bash commands:
+    -   `touch index.html` (sukuria failą)
+    -   `toush failas1.txt failas2.txt failas 3.txt failas4.txt
+    -   `mkdir` (sukuria folderį/direktoriją)
+    -   `mkdir folder1 folder2 folder3 folder4
+    -   `ls -al` (stulpeliu atvaizduoja direktorijoje esanti turini)
+-   git commands:
+    -   `git init`
+    -   `git add .`
+    -   `git commit -m "message text"`
+    -   `git push`
+
 
 ## 🎒 getting started
 
