@@ -32,10 +32,10 @@ design: ![alt text](./original-design.png)
     -   `mkdir folder1 folder2 folder3 folder4
     -   `ls -al` (stulpeliu atvaizduoja direktorijoje esanti turini)
 -   git commands:
-    -   `git init`
-    -   `git add .`
-    -   `git commit -m "message text"`
-    -   `git push`
+    -   `git init` (git repozitorijos inicijavimas)
+    -   `git add .` (visus paredaguotus failus perkelia į "stage", t.y. paruošia cimmit'inimui)
+    -   `git commit -m "message text"` (su'commit'ina)
+    -   `git push` (išsiunčia commit'ą į remove repozitoriją(Githu))
 
 
 ## 🎒 getting started
