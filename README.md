@@ -24,6 +24,7 @@ design: ![alt text](./original-design.png)
 -   CSS file
 -   FontAwesome icons
 -   display: flex
+-   favicon
 -   hover state
 -   bash commands:
     -   `touch index.html` (sukuria failą)
@@ -31,6 +32,7 @@ design: ![alt text](./original-design.png)
     -   `mkdir` (sukuria folderį/direktoriją)
     -   `mkdir folder1 folder2 folder3 folder4
     -   `ls -al` (stulpeliu atvaizduoja direktorijoje esanti turini)
+    -   `rm failo.pavadinimas` (pašalina failą)
 -   git commands:
     -   `git init` (git repozitorijos inicijavimas)
     -   `git add .` (visus paredaguotus failus perkelia į "stage", t.y. paruošia cimmit'inimui)
