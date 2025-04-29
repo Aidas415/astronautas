@@ -15,7 +15,7 @@ This project is for educational porpuses only, Pull rquest are welcome, but prio
 
 site published at :  https://aidas415.github.io/astronautas/
 
-design: ![alt text](./original-design.png)
+design: ![alt text](./original-design.jng)
 
 ## 🎯 Project features/goals
 
